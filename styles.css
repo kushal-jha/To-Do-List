@@ -1,0 +1,30 @@
+*{
+	background-color: #FC766AFF;
+}
+
+.container{
+	position: relative;
+	top: 0;
+	left: 20%;
+	width: 60%;
+	
+	 text-align: center;
+	 align-items: center;
+	 border: 2px solid #28334AFF;
+	 padding:50px;
+	 background-color:  #F65058FF;
+	 margin-top: 0;
+}
+
+.button{
+	background-color: #361053FF;
+	color: white;
+}
+.clear{
+	background-color: #361053FF;
+	color: white;
+}
+.cont{
+
+}
+
